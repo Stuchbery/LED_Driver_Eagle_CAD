@@ -1,0 +1,6 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"7";"74AC16374";"74AC16374";"SSOP48DL";"IC1, IC3, IC8, IC16, IC21, IC26, IC101";"16-bit edge-triggered D-type FLIP FLOP, 3-state";"";"";"";"";
+"24";"74S08D";"74S08D";"SO14";"IC2, IC4, IC5, IC6, IC7, IC9, IC10, IC11, IC12, IC13, IC14, IC15, IC17, IC18, IC19, IC20, IC22, IC23, IC24, IC25, IC27, IC28, IC29, IC30";"Quad 2-input AND gate";"";"";"";"";
+"1";"87758-1416";"87758-1416";"87758-1416";"X11";"14 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR";"MOLEX";"87758-1416";"7472358";"59J1562";
+"3";"87758-3216";"87758-3216";"87758-3216";"X1, X2, X3";"32 Pin - 2mm Dual Row Single Wafer, Vertical T/H HDR";"";"87758-3216";"unknown";"25M5684";
+"12";"ULN2804-SM";"ULN2804-SM";"SOP-18";"U$1, U$2, U$3, U$4, U$5, U$6, U$7, U$8, U$9, U$10, U$11, U$12";"ULN2804 is a high voltage, high current Darlington array comprised of eight NPN Darlington pairs.";"";"";"";"";
